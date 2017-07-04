@@ -1,0 +1,15 @@
+{"namespace": "test123",
+ "type": "record",
+ "name": "cdi_test1",
+ "fields": [
+     {"name": "id", "type": "string"},
+     {"name": "source_name", "type": "string"},
+     {"name": "edgenode_name", "type": "string"},
+     {"name": "pid", "type": ["null", "string"], "default": null},
+     {"name": "execution_id", "type": "string"},
+     {"name": "application_name", "type": "string"},
+     {"name": "message", "type": "string"},
+     {"name": "date_created", "type": "string"},
+     {"name": "user_created", "type": "string"}
+ ]
+}

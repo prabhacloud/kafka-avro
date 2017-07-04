@@ -1,0 +1,4 @@
+testcase_0999|cdi|edge01|21567|0125|optum|just a one-line message|2017-06-20 12:35:25.650231|ddew1
+testcase_0999|cdi|edge01|21568|0126|optum|just another one-line message|2017-06-20 12:35:25.652453|ddew1
+testcase_0999|cdi|edge01|21569|0127|optum|just a one-line message|2017-06-20 12:36:35.831562|ddew1
+testcase_0999|cdi|edge01|21565|0128|optum|just another one-line message|2017-06-20 12:36:35.832785|ddew1
